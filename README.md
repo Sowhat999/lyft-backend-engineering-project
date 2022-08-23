@@ -21,9 +21,9 @@ This repo is my completed project from the Lyft Back-End Engineering Virtual Exp
 - **Task**: Add a series of unit tests for the concrete implementations of two classes
 - **Objectives**: Create effective unit tests that capture edge cases
 - **Topics**:
-  - Python UnitTest
-  - Behavioral patterns
-  - UML class diagramming
+  - Python unittest
+  - Unit testing
+  - Clean coding
 
 ## Test-Driven Development
 - **Task**: Add new functionality to the system and modify an existing component, ensuring all tests pass
