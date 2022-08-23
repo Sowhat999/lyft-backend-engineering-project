@@ -27,7 +27,7 @@ This repo is my completed project from the Lyft Back-End Engineering Virtual Exp
 
 ## Test-Driven Development
 - **Task**: Add new functionality to the system and modify an existing component, ensuring all tests pass
-- **Objectives**: Use test-driven development (TDD) to seemlessly integrate a new module into the system
+- **Objectives**: Use test-driven development (TDD) to seamlessly integrate a new module into the system
 - **Topics**:
   - Test-driven development
   - Agile development
